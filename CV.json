@@ -1,0 +1,60 @@
+{
+	"basics": {
+		"name": "Adarsh Kumar",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/76430304?s=400&u=803075a45d0a186c5693e066f0d9c69f4be9d745&v=4",
+		"email": "2020kucp1016@iiitkota.ac.in",
+		"phone": "9808455106",
+		"summary": "I am Adarsh Kumar pursuing B-Tech from Indian Institute of Informatiom and Technology. My branch is computer science and technology and my field of interest is animation",
+		"location": {
+			"address": "B-60 Tons Colony Dakpathar",
+			"postalCode": "248125",
+			"city": "Dehradun",
+			"countryCode": "India",
+			"region": "Uttarakhand"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "@AdarshK83188530",
+				"url": "https://www.twitter.com/AdarshK83188530"
+			},
+			{
+				"network": "Github",
+				"username": "@Adarshmi45",
+				"url": "https://www.github.com/Adarshmi45/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Adarsh Kumar",
+				"url": "www.linkedin.com/in/adarsh-kumar-a97403200"
+			},
+			{
+				"network": "Instagram",
+				"username": "adarsh_mi45",
+				"url": "https://instagram.com/adarsh_mi45"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "----",
+		"gpa": "8.64",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C", "Php", "MySql"]
+	}],
+	"interests": [{
+		"name": "Art",
+		"keywords": ["Sketching", "Digital Art"]
+	}]
+
+}
