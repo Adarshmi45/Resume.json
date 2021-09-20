@@ -50,7 +50,7 @@
 
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "C", "Php", "MySql"]
+		"keywords": ["HTML", "CSS", "Javascript", "C", "Php", "MySql","Python"]
 	}],
 	"interests": [{
 		"name": "Art",
